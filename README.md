@@ -1,6 +1,6 @@
 # V2X-UniPool
 
-This repository provides the official implementation of **"V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving" (ICLR 2026, under review)**.
+This repository provides the official implementation of **"V2X-UniPool: Unifying Multimodal Perception and Knowledge Reasoning for Autonomous Driving" (under review)**.
 
 ## Overview
 V2X-UniPool is a framework that:
